@@ -1,4 +1,4 @@
-"""Funciones compartidas. Fuente: OpenFlights (2017) https://openflights.org/data"""
+"""Fuente: OpenFlights (2017) https://openflights.org/data"""
 import pandas as pd
 
 BASE = "https://raw.githubusercontent.com/jpatokal/openflights/master/data/"
